@@ -1,0 +1,7 @@
+{
+  "name": "Svelte Tailwind Vite Template",
+  "shortname": "wails-svelte-tailwind-vite-template",
+  "author": "",
+  "description": "Wails svelte template with taiwind css & vite HMR",
+  "helpurl": "https://wails.io"
+}
